@@ -1,5 +1,5 @@
 import React from "react";
 
 export function Header() {
-  return <header>Develop</header>;
+  return <header>Frontend Develop</header>;
 }
